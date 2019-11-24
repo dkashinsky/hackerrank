@@ -22,7 +22,7 @@ describe('Extra Large Factorial', () => {
         const testNumber = 25;
         const expectedResult = '15511210043330985984000000';
 
-        const result = factorialExt(testNumber).join('');
+        const result = factorialExt(testNumber).toString();
         expect(result).toEqual(expectedResult);
     });
 });
