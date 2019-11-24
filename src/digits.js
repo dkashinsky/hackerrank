@@ -20,4 +20,7 @@ function findDigits(n) {
     return counter;
 }
 
-console.log(findDigits('1012'));
+module.exports = {
+    getDigits,
+    findDigits
+}

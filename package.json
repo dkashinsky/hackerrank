@@ -1,0 +1,28 @@
+{
+  "name": "hackerrank",
+  "version": "1.0.0",
+  "description": "Solutions for Hackerrank problems done by me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkashinsky/hackerrank.git"
+  },
+  "author": "Dmitry Kashinsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkashinsky/hackerrank/issues"
+  },
+  "homepage": "https://github.com/dkashinsky/hackerrank#readme",
+  "devDependencies": {
+    "browserify": "^16.5.0",
+    "jasmine-core": "^3.5.0",
+    "karma": "^4.4.1",
+    "karma-browserify": "^6.1.0",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-jasmine": "^2.0.1"
+  },
+  "dependencies": {}
+}
