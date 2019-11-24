@@ -4,13 +4,13 @@
   "description": "Solutions for Hackerrank problems done by me",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "karma start"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dkashinsky/hackerrank.git"
   },
-  "author": "Dmitry Kashinsky",
+  "author": "Dmitry Kashinsky <dmitry.kashinsky@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dkashinsky/hackerrank/issues"
