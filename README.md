@@ -1,2 +1,2 @@
 # hackerrank
-solutions for hackerrank problems
+solutions for problems found on the web
