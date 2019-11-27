@@ -73,6 +73,15 @@ function getCellPath(board, i, j, n, m, pathLength, visited = {}){
     return cellPathOptions;
 }
 
+function findMaxPathOptimized(){
+    //Find max cell value to start with. if there are several return both
+
+    //Find max path for selected cells
+
+    throw new Error('Not implemented!');
+}
+
 module.exports = {
-    findMaxPath
+    findMaxPath,
+    findMaxPathOptimized
 };
